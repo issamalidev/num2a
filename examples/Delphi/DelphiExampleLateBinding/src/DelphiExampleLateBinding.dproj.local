@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/19 19:54:11.141.pas,C:\Users\Issam\Documents\RAD Studio\Projects\Unit3.pas=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.pas</Transaction>
+    <Transaction>2016/09/19 19:54:11.141.dfm,C:\Users\Issam\Documents\RAD Studio\Projects\Unit3.dfm=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.dfm</Transaction>
+    <Transaction>2016/09/19 19:54:16.796.dproj,C:\Users\Issam\Documents\RAD Studio\Projects\Project1.dproj=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\DelphiExampleLateBinding.dproj</Transaction>
+    <Transaction>2016/09/19 19:55:11.748.pas,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.pas=</Transaction>
+    <Transaction>2016/09/19 19:55:11.748.dfm,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.dfm=</Transaction>
+    <Transaction>2016/09/19 19:56:25.525.pas,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\Unit3.pas=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.pas</Transaction>
+    <Transaction>2016/09/19 19:56:25.525.dfm,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\Unit3.dfm=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleLateBinding\src\uMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

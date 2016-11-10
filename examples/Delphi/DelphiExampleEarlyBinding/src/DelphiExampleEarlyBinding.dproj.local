@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/19 22:26:11.425.pas,C:\Users\Issam\Documents\RAD Studio\Projects\Unit3.pas=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleEarlyBinding\src\uMain.pas</Transaction>
+    <Transaction>2016/09/19 22:26:11.425.dfm,C:\Users\Issam\Documents\RAD Studio\Projects\Unit3.dfm=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleEarlyBinding\src\uMain.dfm</Transaction>
+    <Transaction>2016/09/19 22:26:28.786.dproj,C:\Users\Issam\Documents\RAD Studio\Projects\Project1.dproj=E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleEarlyBinding\src\DelphiExampleEarlyBinding.dproj</Transaction>
+    <Transaction>2016/09/19 22:26:44.354.pas,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleEarlyBinding\src\uMain.pas=</Transaction>
+    <Transaction>2016/09/19 22:26:44.354.dfm,E:\MyCodes\C\num2a\examples\Delphi\DelphiExampleEarlyBinding\src\uMain.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
