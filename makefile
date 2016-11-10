@@ -22,7 +22,7 @@ $(SO_TARGET): $(TARGET) $(OBJECTS)
 	$(CC) -shared -o $@ $(OBJECTS)
 
 mingw: CFLAGS=-Wall -Isrc -D BUILD_DLL $(OPTFLAGS)
-mingw: $(OBJECTS)
+mingw: build $(OBJECTS)
 		$(CC) -shared -o build/num2a.dll $(OBJECTS) -Wl,--subsystem,windows,--out-implib,build/libnum2a.a
 
 static: build/libnum2a.a
