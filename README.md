@@ -38,7 +38,8 @@ You can also test this C library from [this page here](http://www.issamsoft.com/
 
 extra links
 ==========
-For more info, please visit my blog: http://blog.issamsoft.com
+For more info, please visit my blog: http://blog.issamsoft.com 
+
 You can test num2a online here: http://www.issamsoft.com/tf/
 
 
