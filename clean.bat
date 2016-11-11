@@ -1,5 +1,5 @@
 @echo off
-del num2a.dll
-del num2a.obj
-del num2a.exp
-del num2a.lib
+del build\*.dll
+del build\*.obj
+del build\*.exp
+del build\*.lib
