@@ -634,7 +634,7 @@ double get_fractional_part(double num, int decimalPlace, int *leadingZeros)
 }
 
 
-MODULE_API wchar_t *num2aW(
+MODULE_API wchar_t * CALL_CONV num2aW(
 								double num, 
 								const wchar_t *itemName, 
 								const wchar_t *itemNameWithTanween,
@@ -646,7 +646,7 @@ MODULE_API wchar_t *num2aW(
 	return process_numW(num, itemName, itemNameWithTanween, dualItemName, pluralItemName, ig, 0);
 }
 
-MODULE_API int get_num2aW(
+MODULE_API int CALL_CONV get_num2aW(
 								wchar_t *dest,
 								size_t dest_len,
 								double num, 
@@ -672,7 +672,7 @@ MODULE_API int get_num2aW(
 
 
 
-MODULE_API wchar_t *fnum2aW(
+MODULE_API wchar_t * CALL_CONV fnum2aW(
 								double num, 
 								const wchar_t *itemName, 
 								const wchar_t *itemNameWithTanween,
@@ -832,7 +832,7 @@ MODULE_API wchar_t *fnum2aW(
 }
 
 
-MODULE_API int get_fnum2aW(
+MODULE_API int CALL_CONV get_fnum2aW(
 							wchar_t *dest,
 							size_t dest_len,								
 							double num, 
@@ -865,7 +865,7 @@ MODULE_API int get_fnum2aW(
 }
 
 
-MODULE_API void n2a_clean(void *ptr)
+MODULE_API void CALL_CONV n2a_clean(void *ptr)
 {
 	if(ptr)
 		free(ptr);
