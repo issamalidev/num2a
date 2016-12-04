@@ -34,6 +34,7 @@ usage
 
 Check the "examples" directory to see the usage of this library in many different programming languages and platforms (C, C++, C#, Delphi, PHP, Java, Qt, GTK).
 Here is a [youtube video](https://www.youtube.com/watch?v=WqCS2CjKEHw) shows examples of using num2a in different languages and platforms.
+Here is another [youtube video](https://www.youtube.com/watch?v=WII2gzfuWx8) shows how to use num2a in Excel.
 You can also test this C library from [this page here](http://www.issamsoft.com/tf/) which uses num2a library.
 
 extra links
